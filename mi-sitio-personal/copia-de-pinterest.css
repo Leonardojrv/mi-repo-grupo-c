@@ -1,0 +1,29 @@
+.html, body { 
+    background-color:white
+}
+
+.contenedor {
+    height: 25%;
+    width: 100%;
+    max-width: 100%;
+    max-height: 20%;
+
+}
+
+.encabezado {
+    height: 30%;
+    margin-left: 4%;
+}
+.logo-de-pinterest {
+    width: 10%;
+
+}
+
+.botones-de-inicio-y-hoy {
+    display: inline-block
+}
+.botoninicio {
+    background-color: black;
+    border-bottom-left-radius: 100%;
+}
+
